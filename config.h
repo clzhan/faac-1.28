@@ -40,7 +40,7 @@
 /* #undef HAVE_LIBGNUGETOPT */
 
 /* define if needed */
-#define HAVE_LIBMP4V2 1
+/* #undef HAVE_LIBMP4V2 */
 
 /* Define to 1 if you have the <mathf.h> header file. */
 /* #undef HAVE_MATHF_H */
@@ -125,7 +125,7 @@
 /* #undef WORDS_BIGENDIAN */
 
 /* Number of bits in a file offset, on hosts where this is settable. */
-#define _FILE_OFFSET_BITS 64
+/* #undef _FILE_OFFSET_BITS */
 
 /* Define for large files, on AIX-style hosts. */
 /* #undef _LARGE_FILES */
