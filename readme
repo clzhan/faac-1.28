@@ -1,0 +1,5 @@
+sudo apt-get install autotools-dev
+cp /usr/share/misc/config.{sub,guess} .
+
+#arm64
+cp /usr/share/libtool/config/config.{sub,guess} .
